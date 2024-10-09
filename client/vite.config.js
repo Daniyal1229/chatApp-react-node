@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/socket.io': {
-        target: 'http://localhost:3500',
+        target: 'https://chatapp-react-node-ylfg.onrender.com',
         ws: true
       }
     }
