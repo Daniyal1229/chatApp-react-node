@@ -23,6 +23,8 @@ https://chat-app-v2-r7vw.onrender.com
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- React.js
+- Axios
 
 ## Installation
 
